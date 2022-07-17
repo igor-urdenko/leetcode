@@ -1,9 +1,9 @@
-package com.ingvar.leetcode.prb01_10;
+package com.ingvar.leetcode.p0.p00.p000.p0000;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class P01_TwoSum {
+public class P0001_TwoSum {
   public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> hash = new HashMap<>();
 
