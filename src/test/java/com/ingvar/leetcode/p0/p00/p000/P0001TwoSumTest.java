@@ -1,4 +1,4 @@
-package com.ingvar.leetcode.p0.p00.p000.p0000;
+package com.ingvar.leetcode.p0.p00.p000;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
